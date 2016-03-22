@@ -1,0 +1,53 @@
+! Location: ~/.Xdefaults
+
+#include ".palettes/sam"
+
+URxvt*cursorColor:  #4100A0
+URxvt*pointerColor: #FF00FF
+URxvt*background:   #100020
+URxvt*foreground:   #944BFF
+!foreground B480FF
+!cursor 6A00FF
+
+! Black
+URxvt*color0:   COLOR0
+! Red:
+URxvt*color1:   COLOR1
+! Green
+URxvt*color2:   COLOR2
+! Yellow
+URxvt*color3:   COLOR3
+! Blue
+URxvt*color4:   COLOR4
+! Magenta
+URxvt*color5:   COLOR5
+! Cyan
+URxvt*color6:   COLOR6
+! Grey
+URxvt*color7:   COLOR7
+! Dark Grey
+URxvt*color8:   COLOR8
+! Dark Red
+URxvt*color9:   COLOR9
+! Dark Green
+URxvt*color10:  COLOR10
+! Dark Yellow
+URxvt*color11:  COLOR11
+! Dark Blue
+URxvt*color12:  COLOR12
+! Dark Magenta
+URxvt*color13:  COLOR13
+! Dark Cyan
+URxvt*color14:  COLOR14
+! White
+URxvt*color15:  COLOR15
+
+URxvt*font: xft:DejaVu Sans Mono-11
+!URxvt*font: xft:DejaVu Sans Mono:pixelsize=11:antialias=true:hinting=true
+URxvt*boldFont: xft:DejaVu Sans Mono-11:bold
+
+!Scrollbar position. False -> Left, True -> Right
+URxvt*scrollBar_right: true
+
+!Scrollbar Style. Default is rxvt
+URxvt*scrollstyle: plain
