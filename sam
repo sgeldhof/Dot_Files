@@ -1,0 +1,19 @@
+// Location: ~/.palettes/sam
+
+#define COLOR0 #000000
+#define COLOR1 #FF1104
+#define COLOR2 #24FF24//61CE3C
+#define COLOR3 #F1C40F //FBDE2D
+#define COLOR4 #3498DB
+#define COLOR5 #FF0064
+#define COLOR6 #FF5413 //FF6400
+#define COLOR7 #C0C0C0
+#define COLOR8 #606060
+#define COLOR9 #9C0A02
+#define COLOR10 #004000 //Old
+#define COLOR11 #B58900
+#define COLOR12 #183C66
+#define COLOR13 #800040 //Old
+#define COLOR14 #A44000
+#define COLOR15 #FFFFFF
+
